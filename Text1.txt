@@ -1,6 +1,12 @@
 
 
+
 Hello this first text file
 
 This is for conflict statement of feature1 
+
+Hello this first text file
+
+Example for the conflict  
+
 
