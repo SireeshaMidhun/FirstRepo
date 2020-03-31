@@ -1,3 +1,5 @@
 
-Hello this first text file 
+Hello this first text file
+
+Example for the conflict  
 
